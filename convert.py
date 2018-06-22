@@ -16,4 +16,4 @@ options = {
     'no-outline': None
 }
 
-pdfkit.from_file('resume.html', 'out.pdf')
+pdfkit.from_file('free_resume.html', 'out.pdf')

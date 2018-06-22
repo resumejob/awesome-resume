@@ -1,0 +1,41 @@
+body {
+    font-size: 14px; 
+}
+h3 {
+    color: white;
+}
+#resume-framework {
+    border: 2px solid gray;
+    padding: 20px;
+}
+#base-info-span {
+    font-size: 17px;
+    display: inline-block; 
+}
+#base-info, #summary{
+    margin-bottom: 10px;
+}
+.banner-div {
+    background-image: url("../imgs/test.png"); 
+    background-repeat: no-repeat;
+    height: 24px;
+    display: block;
+    padding-top: 6px;
+    padding-left: 6px;
+}
+.banner-span {
+    color: white;
+}
+.white-icon {
+    color: white !important;
+}
+#avatar {
+    float: left;
+    width: 18%; 
+    margin-right: 15%;
+    margin-left: 4%;
+}
+.fas, .fab {
+    color: #16374e;
+}
+
