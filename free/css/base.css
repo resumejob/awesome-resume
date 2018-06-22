@@ -1,0 +1,62 @@
+body {
+    font-size: 16px; 
+    /*font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif; */
+}
+h3 {
+    color: white;
+}
+
+#base-info {
+    display: inline-block;
+}
+
+#resume-framework {
+    border: 2px solid gray;
+    padding: 20px;
+}
+
+#name {
+    font-size: 32px;
+}
+
+#base-info-span {
+    font-size: 1.4rem;
+    overflow: hidden;
+}
+
+#base-info, #summary{
+    margin-bottom: 20px;
+}
+
+.banner-div {
+    background-image: url("../imgs/banner.png"); 
+    background-repeat: no-repeat;
+    height: 24px;
+    display: block;
+    padding-top: 3px;
+    padding-left: 6px;
+    margin-bottom: 10px;
+}
+.banner-span {
+    color: white;
+}
+.white-icon {
+    color: white !important;
+}
+
+#avatar {
+    float: left;
+    width: 200px;
+    border-radius: 8px;
+    margin-right: 100px;
+    margin-left: 10px;
+}
+
+.fas, .fab {
+    color: #16374e;
+}
+
+.project-span {
+    margin-left: 2%;
+    display: inline-block;
+}
