@@ -1,5 +1,6 @@
 body {
-    font-size: 14px; 
+    font-size: 15px; 
+    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 h3 {
     color: white;
@@ -39,3 +40,7 @@ h3 {
     color: #16374e;
 }
 
+.project-span {
+    margin-left: 2%;
+    display: inline-block;
+}
