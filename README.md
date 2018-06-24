@@ -2,6 +2,8 @@
 
 **本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
 
+## 如何写简历
+请参考文章：[程序员如何写一份更好的简历](https://zhuanlan.zhihu.com/p/38431524)
 ## 免费模版使用方法
 
 1. 把free_resume.html中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成150%查看实际转出PDF效果。）
