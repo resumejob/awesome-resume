@@ -2,6 +2,11 @@
 
 **本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
 
+## 免费模版使用方法
+
+1. 把free_resume.html中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成150%查看实际转出PDF效果。）
+2. 按照你的语言习惯把HTML文件转变成PDF格式，例子中使用Python，需要先安装[wkhtmltopdf](https://wkhtmltopdf.org/)和[pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行python3 convert.py即可。
+
 ## 个人简介例句
 
 ### 通用：
