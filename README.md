@@ -10,6 +10,8 @@
 2. 按照你的语言习惯把HTML文件转变成PDF格式，例子中使用Python，需要先安装[wkhtmltopdf](https://wkhtmltopdf.org/)和[pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行python3 convert.py即可。
 3. 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
 
+![模版](http://pat7sictk.bkt.clouddn.com/three_tems.jpg)
+
 ## 个人简介例句
 
 ### 通用：
