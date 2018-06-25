@@ -6,11 +6,11 @@
 请参考文章：[程序员如何写一份更好的简历](https://zhuanlan.zhihu.com/p/38431524)
 ## 免费模版使用方法
 
-1. 把free_resume.html中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成150%查看实际转出PDF效果。）
-2. 按照你的语言习惯把HTML文件转变成PDF格式，例子中使用Python，需要先安装[wkhtmltopdf](https://wkhtmltopdf.org/)和[pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行python3 convert.py即可。
+1. 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出PDF效果。）
+2. 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
 3. 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
 
-![模版](http://pat7sictk.bkt.clouddn.com/three_tems.jpg)
+![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
 
 ## 个人简介例句
 
