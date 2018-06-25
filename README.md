@@ -10,8 +10,7 @@
 2. 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
 3. 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
 
-![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
-
+![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg) 
 ## 个人简介例句
 
 ### 通用：
@@ -47,6 +46,7 @@
 - 熟练使用MVC模式进行项目设计，熟悉**单例，工厂模式**等常见的设计模式和通知机制。
 - 了解**多线程编程，内存管理机制**。熟练掌握**delegate ，block**等回调机制。
 - 熟练掌握集成第三方授权登录，第三方分享，第三方支付等技能。
+- 熟练掌握JSON解析，内存管理和性内优化以及多线程，熟悉使用CocaTouch框架等开源框架与iOS底层SDK的调用。
 - 对软件架构进行搭建，规划，优化应用架构逻辑，提升通信传输效率与安全性。
 - 熟悉**Objective-C与Swift语言**，掌握iOS开发中用代码与故事板实现UI，网络通信，数据库等的基础知识，掌握XCode常用的调试技巧与测试方法，懂得iOS性能优化的常见思路。
 - 熟悉**JS与WebView**交互，熟悉第三方登录，分享，字符功能，熟悉APP上线发布，版本迭代的全部流程，有多个项目上线经验。
@@ -78,3 +78,14 @@
 - 熟悉**Django web**开发框架，熟悉MVC模型，熟悉中间件、Admin站点管理、图片上传、分页，邮件传输。
 - 掌握MySQL数据库的基本原理与常用语法，了解**MongoDB、Redis**等NoSQL数据库；
 
+## 项目经验例句
+
+### 通用
+- 独自负责客户端从无到有的产品设计，研发，流程图及开发文档，用两个月的时间独立开发了初版的app，集成了支付模块、文件下载，数据本地缓存功能。
+- 负责项目管理，产品研发部门的工作任务分配，工作细化划分，保证项目按时上线。
+- 与设计、运营等合作部门沟通协作，推动产品的实现与最终效果的评估，制定产品的测试标准，上线标准，并进行数据跟踪分析.
+
+### 前端
+- 对ListView，ConvertView进行优化，通过ViewHolder缓存Item条目，减少重复代码的冗余，减少30%页面加载时间。
+- 使用多个类实现不同功能，如Loading类负责加载数据和布局文件，Adapter类负责ListView控件与展示数据。实现项目模块化开发，降低组件耦合度。
+- 使用AsyncSocket进行完成即时通讯功能，并协助组长完成客户端与嵌入式网的Socket对接与通信，实现通过iOS设备控制插座的开关、定时开关、温度检测及报警等8个功能。
