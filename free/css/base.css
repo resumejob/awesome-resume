@@ -1,13 +1,21 @@
 body {
     font-size: 16px; 
-    /*font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif; */
+    font-family: "Helvetica Neue", Helvetica, Arial, PingFangSC-Regular, Tahoma, "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", sans-serif;
 }
+
 h3 {
     color: white;
 }
 
 #base-info {
     display: inline-block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#base-info-wrapper {
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 #resume-framework {
@@ -22,10 +30,7 @@ h3 {
 #base-info-span {
     font-size: 1.4rem;
     overflow: hidden;
-}
-
-#base-info, #summary{
-    margin-bottom: 20px;
+    text-align: left;
 }
 
 .banner-div {
