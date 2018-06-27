@@ -6,9 +6,16 @@
 请参考文章：[程序员如何写一份更好的简历](https://zhuanlan.zhihu.com/p/38431524)
 ## 免费模版使用方法
 
-1. 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出PDF效果。）
-2. 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
-3. 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
+- 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出PDF效果。）字体默认按照苹方体，冬青黑体，黑体，微软雅黑的顺序渲染。
+- 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本 convert.py，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，
+
+> 例如Windows下安装的话首先到[这里](https://wkhtmltopdf.org/downloads.html)下载，安装的时候请记住安装目录，安装完成后把安装目录下bin目录中的可执行wkhtmltopdf.exe文件放在模版目录下（如first/wkhtmltopdf.exe，second/wkhtmltopdf.exe）。
+
+然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
+
+- 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
+
+### 本模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。
 
 ![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg) 
 ## 个人简介例句
