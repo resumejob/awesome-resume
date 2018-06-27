@@ -3,7 +3,9 @@
 **本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
 
 ## 如何写简历
-请参考文章：[程序员如何写一份更好的简历](https://zhuanlan.zhihu.com/p/38431524)
+请参考文章：
+- [程序员如何写一份更好的简历](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%BB%BD%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%AE%80%E5%8E%86/)
+- [如何准备急速面试](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/)
 ## 免费模版使用方法
 
 - 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出PDF效果。）字体默认按照苹方体，冬青黑体，黑体，微软雅黑的顺序渲染。
