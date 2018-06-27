@@ -15,7 +15,7 @@
 
 - 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
 
-### 本模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。
+#### 收费模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。
 
 ![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg) 
 ## 个人简介例句
