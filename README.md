@@ -3,12 +3,23 @@
 **本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
 
 ## 如何写简历
-请参考文章：[程序员如何写一份更好的简历](https://zhuanlan.zhihu.com/p/38431524)
+请参考文章：
+
+- [程序员如何写一份更好的简历](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%BB%BD%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%AE%80%E5%8E%86/)
+
+- [如何准备技术面试](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/)
 ## 免费模版使用方法
 
-1. 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出 PDF 效果。）
-2. 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
-3. 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
+- 把文件夹中的 HTML 文件中的文字内容修改为自己的实际情况。（预览修改效果时，请把浏览器缩放（"Command"+"+"）成 150% 查看实际转出PDF效果。）字体默认按照苹方体，冬青黑体，黑体，微软雅黑的顺序渲染。
+- 按照你的语言习惯把 HTML 文件转变成 PDF 格式，这里附了一个 Python 脚本 convert.py，需要先安装 [wkhtmltopdf](https://wkhtmltopdf.org/) 和 [pdfkit](https://github.com/JazzCore/python-pdfkit)，
+
+> 例如Windows下安装的话首先到[这里](https://wkhtmltopdf.org/downloads.html)下载，安装的时候请记住安装目录，安装完成后把安装目录下bin目录中的可执行wkhtmltopdf.exe文件放在模版目录下（如first/wkhtmltopdf.exe，second/wkhtmltopdf.exe）。
+
+然后运行 python3 convert.py 即可。当然你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。
+
+- 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
+
+#### 收费模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。
 
 ![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg) 
 ## 个人简介例句
@@ -93,4 +104,3 @@
 - 使用**多线程**定时器实现图片轮播器效果，使用 CoreData 对首页数据进行数据储存以及实现搜索界面的模糊搜索功能。
 - 封装 FMDatabaseQueue 类防止多线程访问数据库死锁，修改后比起系统原生框架拥有较高的效率和更为方便的调用方式。
 - 使用** JavaScript **与原生** Objective-C **网页交互,实现点击网页按钮跳转功能。
-- 
