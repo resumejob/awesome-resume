@@ -114,3 +114,43 @@
 - 封装 FMDatabaseQueue 类防止多线程访问数据库死锁，修改后比起系统原生框架拥有较高的效率和更为方便的调用方式。
 - 使用** JavaScript **与原生** Objective-C **网页交互,实现点击网页按钮跳转功能。
 - 使用FTP服务器实现CDN分级推送，实现用户上传文件预加热流程，提高50%缓存命中率。
+
+## English Version
+
+### Summary
+- Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.
+- Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
+- Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
+
+### Project
+- Revamped the entire back-end/front-end structure of Tradeshows section that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
+- Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
+- Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
+- Developed the customized FileNET Capture Application in VB.NET and MSSQL Server2000 that enhanced the basic functionality by adding role management system to have a complete control in different phases.
+- Collaborated with senior consultants (developers, designers, UX designers) and project/product managers in a small, agile team building responsive, cross-browser compatible and scalable web apps. Daily stand-up. Peer reviewing PR. Involved in front-end & back-end. Exposed to UX.
+- Developed the front-end of customers’websites and newsletters and of the company's own web portals.
+- Consultation for light & shadow mapping, and general rendering code written for Unity 3D engine.
+- Implemented new shadowing and pseudo ambient occlusion rendering with fast performance.
+- Created and renovated websites for dozens of clients from many different industries. Attended client meetings to discuss their business goals and milestones. Client websites range from CMS-built to bespoke websites from the ground up. Development of a CRM application for a long-term client using PHP and AJAX.
+- Redesigned customer-facing websites and internal tools. Designed and implemented new products and features using Angular JS,Twitter Bootstrap and an internal API based on Django REST Framework.
+- Responsible for the design and production of marketing materials including landing pages, banner ads, billboards, email newsletters and presentations. Screened and interviewed engineering candidates.
+- Redesigned and implemented new features for the web-based version of a major Electronic Health Record platform. Implemented design patterns using Twitter Bootstrap and jQuery.
+- Designed the web and iPhone versions of a Personal Health Record app. Collaborated with the engineering, marketing, sales and support teams to conceive product ideas and implement new features.
+- Created marketing materials including landing pages, banner ads, email newsletters and trade show displays. 
+- Designed and produced in-house marketing materials including websites, direct mail, press packs, portfolios and presentations.
+- Managed social media platforms and public relations, including pitching editorial content to book publishers and magazines. Collaborated with architects to create architectural graphics and renderings.
+- Built a performance dashboard that monitors latency issues, resource usage and data transactions in the broker system.
+- Built a load-test framework for the trading platform. Built easily repro-able new tests that improved coverage by 30%. Tests are run in AWS cloud managed by Mesos. Mesos framework scaled AWS automatically and simulate 8000 users. 
+- Built an innovative real-time fixed income evaluation service for European and Asian markets. Successfully launched the complex continuous pricing platform in production to help brokers to accurately evaluate bond prices.
+- Planned and coordinated work of the team, spoke with potential clients and investors. 
+- Used Hadoop, Kafka, Cassandra, and Storm to develop a lambda architecture that enables real-time big data processing that is highly available, scalable and extensible.
+- Examined machine learning to analyze purchase data and to generate recommendations to both sellers and buyers.
+- Improved the kernel of the high-volume digital ads platform and ensured high throughput, low latency.
+- Continuous refactoring, debugging and bug fixes to ensure high-quality ads service. Optimized startup time by 20%.
+- Led a mobile backend project as the on-site solution architect, collaborated closely with client management teams.
+- Implemented Solr cluster (master-slave architecture) for near real-time search and reduced search time by up to 20%. 
+- Integrated Coherence/GemFire caching for customers including Oracle, VMware and reduced request latency by 25%.
+- Built a high-performance data integration tool for Sanoma, a leading media group; migrated its contents in minutes.
+- Built a web-based application for Belgium Post Office to enable central management via the portal. 
+- Lectured Java Bootcamp and advanced Java courses to 100 professionals at TTI University; was a speaker at Java User Group and LatCraft conferences.
+- Built a marketing permissions tool for TeliaSonera, a leading telephone provider. Integrated into the Liferay portal.
