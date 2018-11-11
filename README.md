@@ -118,8 +118,9 @@
 ## English Version
 
 ### Summary
-- Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.
-- Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
+- I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
+- I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
+- Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
 ### Project
@@ -146,6 +147,7 @@
 - Used Hadoop, Kafka, Cassandra, and Storm to develop a lambda architecture that enables real-time big data processing that is highly available, scalable and extensible.
 - Examined machine learning to analyze purchase data and to generate recommendations to both sellers and buyers.
 - Improved the kernel of the high-volume digital ads platform and ensured high throughput, low latency.
+- Maintained legacy support and new feature development for an enterprise Zend Framework PHP application responsible for directing workflows and task assignment for a team of 100+ remote editors and translators
 - Continuous refactoring, debugging and bug fixes to ensure high-quality ads service. Optimized startup time by 20%.
 - Led a mobile backend project as the on-site solution architect, collaborated closely with client management teams.
 - Implemented Solr cluster (master-slave architecture) for near real-time search and reduced search time by up to 20%. 
