@@ -156,3 +156,73 @@
 - Built a web-based application for Belgium Post Office to enable central management via the portal. 
 - Lectured Java Bootcamp and advanced Java courses to 100 professionals at TTI University; was a speaker at Java User Group and LatCraft conferences.
 - Built a marketing permissions tool for TeliaSonera, a leading telephone provider. Integrated into the Liferay portal.
+
+### Cover Letter
+
+> Dear XXX
+
+> Please find my application to join Bromley Tech Solutions as a Computer Programmer. You will find that I am suitably qualified and experienced and I have the skills and abilities laid out in the job description advertised. 
+> 
+> In my role as Computer Programmer I had a number of day-to-day responsibilities that included write special code, test written code and execute them, participated in the design, testing and installing client servers, mentored trainee Computer Programmers and worked on developing cyber security infrastructures for internal and external clients.
+
+> The following is a summary of the highlights of my professional career thus far:
+> 
+- Have a proven track record of integrating user and business requirements to provide cost-effective, secure and easy-to-use solutions.
+- Served as a principal group member in identifying and prioritizing technology investments.
+- Designed and initiated a cross-platform, Java-based POS system that was completed ahead of target date and well within budget.
+- Wrote code for new solutions that improved scalability by 45%
+
+> Dear XXX
+
+> I am writing to introduce myself to you as a student of International School of Technology (ISTech.). I’m responding to your advertisement in the local Employment News for want of a software developer for your development section.
+
+> As you can see in the enclosed resume, I have a very strong academic background in operating systems combined with over five years research experience in search engine optimization. My recent internship at Major Infosystems, New York, allowed me to further develop and strengthen my technical skills. I have good hands on programming languages like C, C++, Java and Assembly. I believe that I could make a significant and valuable contribution in your firm.
+
+> I would appreciate the opportunity to discuss how my education and experience will be helpful to you. I will be contacting you tomorrow morning on phone to talk about the possibility of arranging an interview. Thank you for your time and consideration.
+
+> Sincerely,
+
+> XXX
+
+> Dear XXX,
+> 
+> A five-year experience in computer programming has urged me to apply for this position. I was excited to learn about your job post at (mention the name of the magazine/ newspaper/ website). I have enclosed my resume that will provide you with proper details about my educational background and work experience.
+> 
+> Programming is something I was always interested since my school days. I am currently working at (mention the name of your current work place) and have gained a valuable experience here as a senior computer programmer. Here, I am responsible to create special language files and then finally execute them in the computer. I am fluent with a number of language programs such as COBOL, JAVA, C and C++. This matches up with the requirements for the post in your organization.
+
+> I would like to meet you and discuss on this more. I would be glad if you could tell me when and where we can meet. I can be contacted at (insert contact details) or email me at (mention your email address).
+> 
+> Sincerely,
+> 
+> XXX
+
+> Dear XXX,
+> 
+> Since 2015, I have served as a software engineer for Action Company, where I have been repeatedly recognized for developing innovative solutions for multimillion-dollar, globally deployed software and systems. I am responsible for full lifecycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.
+
+> Known for excellent client-facing skills, I have participated in proposals and presentations that have landed six-figure contracts. I also excel in merging business and user needs into high-quality, cost-effective design solutions while keeping within budgetary constraints.
+
+> My technical expertise includes cross-platform proficiency (Windows, Unix, Linux and VxWorks); fluency in 13 scripting/programming languages (including C, C++, VB, Java, Perl and SQL); and advanced knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture and self-test automation).
+
+> My experience developing user-friendly solutions on time and on budget would enable me to step into a software engineering role at XYZ Company and hit the ground running. I will follow up with you next week, and you may reach me at (215) 555-5555. I look forward to speaking with you.
+
+> Sincerely,
+> 
+> XXX
+
+> Dear XXX:
+
+> I'm writing to express my interest in the Senior Programmer Analyst position posted on your company website. I believe that my strong technical experience and education makes me a competitive candidate for this position.
+
+> My key strengths that would be a good match with the position include:
+
+> Successfully designing, developing and supporting live use applications.
+A self-starter and eager to learn new things. I continuously seek to build my skill set and thrive in high-paced environments.
+
+> Striving for continued excellence. My contributions to the team during my senior year internship led to an offer with the company after graduation, and I’ve continued to assume new responsibilities and challenges during my tenure.
+
+> Providing exceptional contributions to customer service. In my previous role, I improved first call resolution rates by 8 percent last quarter, while keeping talk time flat.
+> 
+> Sincerely,
+> 
+> XXX
