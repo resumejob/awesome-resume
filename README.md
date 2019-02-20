@@ -124,16 +124,19 @@
 - I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
 - I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
+- Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
 ### Project
 - Revamped the entire back-end/front-end structure of Tradeshows section that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
+- Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
 - Developed the customized FileNET Capture Application in VB.NET and MSSQL Server2000 that enhanced the basic functionality by adding role management system to have a complete control in different phases.
 - Collaborated with senior consultants (developers, designers, UX designers) and project/product managers in a small, agile team building responsive, cross-browser compatible and scalable web apps. Daily stand-up. Peer reviewing PR. Involved in front-end & back-end. Exposed to UX.
 - Developed the front-end of customers’websites and newsletters and of the company's own web portals.
 - Consultation for light & shadow mapping, and general rendering code written for Unity 3D engine.
+- Coordinated recruiting, interviewing, training of interns.
 - Implemented new shadowing and pseudo ambient occlusion rendering with fast performance.
 - Created and renovated websites for dozens of clients from many different industries. Attended client meetings to discuss their business goals and milestones. Client websites range from CMS-built to bespoke websites from the ground up. Development of a CRM application for a long-term client using PHP and AJAX.
 - Redesigned customer-facing websites and internal tools. Designed and implemented new products and features using Angular JS,Twitter Bootstrap and an internal API based on Django REST Framework.
