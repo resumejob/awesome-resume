@@ -1,16 +1,15 @@
 # awesome-resume
 
-**本项目由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
+### 求职系列文章：
 
-### 求职准备
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/77857433" >系统设计面试 101</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/106950357" >程序员面试推荐书籍</a>
 
-- [程序员如何写一份更好的简历](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%BB%BD%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%AE%80%E5%8E%86/)
+本文章由 [ResumeJob](https://resumejob.github.io/) 撰写，ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。我们团队在国内外公司面试过数百名的工程师，浏览过千份简历，志在帮助程序员找到合适自己的工作，如果你想知道简历哪里出现问题或者想在面试前进行模拟面试的话，欢迎联系我们，了解更多细节欢迎浏览 resumejob.github.io 。
 
-- [如何准备技术面试](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/)
-
-- [程序员国外求职指南](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%BD%E5%A4%96%E6%B1%82%E8%81%8C%E6%8C%87%E5%8D%97/)
-
-- [系统设计面试 101](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95-101/)
 
 ## 目录
 
