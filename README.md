@@ -301,30 +301,14 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 
 ![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
 
-#### 收费模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。（默认提供了 Python 的解决方案）
-
 ### 模版使用说明
 
 1. 修改简历内容
 
-    请把要生成的模版文件夹中的 HTML 文件中的**文字/代码**内容替换成自己的实际情况。（文件夹里面已经有对应的例子。预览修改效果时，可以把浏览器缩放（"Command" + "+"）成 150% 查看实际转出PDF效果。）
+    压缩包中的三个文件夹分别对应三个不同的简历模版，你可以通过里面的 **简历.pdf** 文件预览来选择使用哪个模版。选择完成后把文件夹中的 **resume.html** 文件中的**文字与代码**内容替换成自己的简历实际情况。（需要预览打印效果时，可以使用浏览器选项的 “打印”（如下图）来预览实际转出PDF效果。）
 
 2. 导出为PDF格式
 
-    按照你的语言习惯把 HTML 文件转变成 PDF 格式，如果你使用 macOS，可以在 first, second 或者 third 文件夹下运行 convert 可执行文件（需安装 wkhtmltopdf，请参考下面步骤）：
+    使用浏览器打开 **resume.html** 文件，并在浏览器选项中找到“打印”，选择保存为 PDF（如下图）。（你可以通过自定义缩放来控制简历的长度和尺寸）。
 
-        ./convert resume.html
-
-    即可直接导出PDF。
-
-    如果你使用其他系统，这里附了一个 Python 脚本 convert.py，使用方法如下：
-    1. 安装 [wkhtmltopdf](https://wkhtmltopdf.org/)
-
-        > 例如Windows下安装的话首先到[这里](https://wkhtmltopdf.org/downloads.html)下载，安装的时候请记住安装目录，安装完成后把安装目录下bin目录中的可执行wkhtmltopdf.exe文件放在模版目录下（如first/wkhtmltopdf.exe，second/wkhtmltopdf.exe）。
-    2. 终端运行：
-
-        pip3 install pdfkit
-
-        python3 convert.py resume.html
-
-    即可导出 PDF 文件。字体按照苹方体，冬青黑体，黑体，微软雅黑的顺序进行渲染。你也可以使用自己熟悉的语言来转换，例如 Javascript 可以使用 [pdfkit](https://github.com/devongovett/pdfkit)。如果觉得麻烦的话也可以把 HTML 文件发给我们来导出 PDF。
+    ![pdf](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/pdf.png)
