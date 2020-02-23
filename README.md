@@ -30,10 +30,17 @@
  
 ## 简历模板列表
 
+- 不想你的简历投递之后，在招聘软件中格式混乱？
+
+![错误模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/wrong_all.png)
+
+- 可以选择使用我们的简历模板
+
+![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
+
 - 本项目的 `free` 文件夹中带有一个免费的简历模版（通过热门招聘网站的测试）。下载后可以直接使用。
 - 收费模版请通过[这里](https://resumejob.github.io/#price-table)付费以及下载。
 
-![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
 
 ### 模版使用说明
 
