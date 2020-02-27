@@ -1,6 +1,7 @@
 # awesome-resume
+本项目由 [ResumeJob](https://resumejob.github.io/) 维护，包含程序员简历常用的例句，请根据自己的实际情况使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。我们团队在国内外公司面试过数百名的工程师，浏览过千份简历，志在帮助程序员找到合适自己的工作，如果你想知道简历哪里出现问题或者想在面试前进行模拟面试的话，欢迎联系我们，了解更多细节欢迎浏览 [resumejob.github.io](https://resumejob.github.io/) 。
 
-### 求职系列文章：
+#### 求职系列文章：
 
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
@@ -8,7 +9,7 @@
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/77857433" >系统设计面试 101</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/106950357" >程序员面试推荐书籍</a>
 
-本文章由 [ResumeJob](https://resumejob.github.io/) 撰写，ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。我们团队在国内外公司面试过数百名的工程师，浏览过千份简历，志在帮助程序员找到合适自己的工作，如果你想知道简历哪里出现问题或者想在面试前进行模拟面试的话，欢迎联系我们，了解更多细节欢迎浏览 [resumejob.github.io](https://resumejob.github.io/) 。
+
 
 
 ## 目录
@@ -40,8 +41,6 @@
 
 - 本项目的 `free` 文件夹中带有一个免费的简历模版（通过热门招聘网站的测试）。下载后可以直接使用。
 - 收费模版请通过[这里](https://resumejob.github.io/#price-table)付费以及下载。
-
-## 请根据自己的实际情况使用以下例句
 
 ## 个人简介
 
@@ -300,4 +299,4 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 > 
 > Sincerely,
 > 
-> XXX
+
