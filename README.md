@@ -31,13 +31,13 @@
  
 ## 简历模板列表
 
-- 不想你的简历投递之后，在招聘软件中格式混乱？
+#### 不想简历在招聘平台中像这样显示混乱？（下图来自真实的简历）
 
-![错误模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/wrong_all.png)
+<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/wrong_all.png" width="600">
 
-- 可以选择使用我们的简历模板
+#### 建议选择使用我们测试过的简历模板
 
-![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
+<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg" width="600">
 
 - 本项目的 `free` 文件夹中带有一个免费的简历模版（通过热门招聘网站的测试）。下载后可以直接使用。
 - 收费模版请通过[这里](https://resumejob.github.io/#price-table)付费以及下载。
@@ -172,7 +172,7 @@
 - 对应用进行架构，兼容到 **iOS11** 最新版本，核心功能包括获取 **GPS**，二维码扫码。同时使用户可以进行评论与意见反馈。
 - 使用**多线程**定时器实现图片轮播器效果，使用 CoreData 对首页数据进行数据储存以及实现搜索界面的模糊搜索功能。
 - 封装 FMDatabaseQueue 类防止多线程访问数据库死锁，修改后比起系统原生框架拥有较高的效率和更为方便的调用方式。
-- 使用** JavaScript **与原生** Objective-C **网页交互,实现点击网页按钮跳转功能。
+- 使用 **JavaScript** 与原生 **Objective-C** 网页交互,实现点击网页按钮跳转功能。
 - 使用FTP服务器实现CDN分级推送，实现用户上传文件预加热流程，提高50%缓存命中率。
 
 ### 后端经验
@@ -299,4 +299,3 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 > 
 > Sincerely,
 > 
-
