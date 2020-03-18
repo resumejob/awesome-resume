@@ -37,7 +37,11 @@
 
 #### 建议选择使用我们测试过的简历模板
 
-<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg" width="600">
+- 本地修改和生成简历，不用担心隐私泄露
+- 经过多个热门招聘应用的显示测试，提高 60% 通过率
+
+<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all-1.jpg" width="600">
+<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all-2.jpg" width="600">
 
 - 本项目的 `free` 文件夹中带有一个免费的简历模版（通过热门招聘网站的测试）。下载后可以直接使用。
 - 收费模版请通过[这里](https://resumejob.net/#price-table)付费以及下载。
