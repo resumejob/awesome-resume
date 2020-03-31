@@ -1,7 +1,10 @@
-# awesome-resume
-本项目由 [ResumeJob](https://resumejob.net/) 维护，包含程序员简历常用的例句，请根据自己的实际情况使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。了解更多细节欢迎浏览 [resumejob.net](https://resumejob.net/) 。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/banner.jpg" width="1000">
+</p>
 
-#### 求职系列文章：
+本项目包括**程序员简历常用的例句**，请根据自己的实际情况修改和使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。了解更多细节欢迎浏览 [resumejob.net](https://resumejob.net/) 。
+
+### 求职系列文章：
 
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
@@ -9,13 +12,24 @@
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/77857433" >系统设计面试 101</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/106950357" >程序员面试推荐书籍</a>
 
+### 简历模板列表：
 
+不想简历在招聘平台中像这样显示混乱？建议选择使用我们测试过的简历模板
 
+- 本地修改和生成简历，不用担心隐私泄露
+- 经过多个热门招聘应用的显示测试，提高 60% 通过率
 
-## 目录
+<p align="center">
+  <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg" width="1000">
+</p>
 
-- 简历模版
-	- [简历模版](#简历模板列表)
+- 本项目的 `free` 文件夹中带有一个免费的简历模版。下载后可以直接使用。
+- 收费模版请通过[这里](https://resumejob.net/#pricing)付费和下载。
+
+<hr>
+
+### 项目目录
+
 - 个人简介
 	- [简介](#通用简介)
 	- [前端](#前端简介)
@@ -29,19 +43,6 @@
 	- [简介](#summary)
 	- [项目经验](#project)
  
-## 简历模板列表
-
-#### 不想简历在招聘平台中像这样显示混乱？建议选择使用我们测试过的简历模板
-
-- 本地修改和生成简历，不用担心隐私泄露
-- 经过多个热门招聘应用的显示测试，提高 60% 通过率
-
-<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all-1.jpg" width="600">
-<img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all-2.jpg" width="600">
-
-- 本项目的 `free` 文件夹中带有一个免费的简历模版。下载后可以直接使用。
-- 收费模版请通过[这里](https://resumejob.net/#pricing)付费和下载。
-
 ## 个人简介
 
 ### 通用简介：
