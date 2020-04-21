@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/banner.jpg" width="1000">
 </p>
 
-本项目包括**程序员简历常用的例句**，请根据自己的实际情况修改和使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。了解更多细节欢迎浏览 [osjobs.net](https://osjobs.net/) 。
+本项目包括**程序员简历常用的例句**，请根据自己的实际情况修改和使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。了解更多细节欢迎浏览 [co.osjobs.net](https://co.osjobs.net/) 。
 
 ### 求职系列文章：
 
@@ -24,7 +24,7 @@
 </p>
 
 - 本项目的 `free` 文件夹中带有一个免费的简历模版。下载后可以直接使用。
-- 收费模版请通过[这里](https://osjobs.net/#pricing)付费和下载。
+- 收费模版请通过[这里](https://co.osjobs.net/#pricing)付费和下载。
 
 <hr>
 
