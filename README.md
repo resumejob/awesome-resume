@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/banner.jpg" width="1000">
-</p>
-
-本项目包括**程序员简历常用的例句**，请根据自己的实际情况修改和使用。ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。了解更多细节欢迎浏览 [co.osjobs.net](https://co.osjobs.net/) 。
+本文章由**海外兔 (https://osjobs.net)** 撰写，我们团队有丰富的面试官经验，能帮助你分析简历，模拟面试，重新规划你的职业生涯。详细信息请浏览**求职课程 (https://co.osjobs.net/)**
 
 ### 求职系列文章：
 
@@ -10,7 +6,6 @@
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/77857433" >系统设计面试 101</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/106950357" >程序员面试推荐书籍</a>
 
 ### 简历模板列表：
 
