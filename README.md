@@ -9,10 +9,10 @@
 
 ### 简历模板列表：
 
-不想简历在招聘平台中像这样显示混乱？建议选择使用我们测试过的简历模板
+为什么选择我们的模版？
 
-- 本地修改和生成简历，不用担心隐私泄露
-- 经过多个热门招聘应用的显示测试，提高 60% 通过率
+- 四个精心设计，方便版本控制的 HTML 模版，提升 60% 通过筛选概率
+- 隐私保护，能够轻松在本地导出 PDF 版本
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg" width="1000">
