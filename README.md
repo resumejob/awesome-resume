@@ -184,8 +184,13 @@
 ### Summary
 - I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
 - I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
+- Develop, maintain and support application programs for administrative, Web and mobile systems using Java and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues; and manage a team of three programmers.
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
 - Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
+- Lead programmer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability.
+- Knowledge of commercial and open source software/database engineering tools, design techniques, CASE tools and security standards.
+_ Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
+- Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
 ### Project
@@ -193,6 +198,14 @@
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
+- Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
+- Led, architected and participated in the design, testing and deployment of client/server, multitier applications, ActiveX and related components.
+- Developed new procedures for requirements gathering, needs analysis, testing, scripting and documentation to strengthen quality and functionality of business-critical applications.
+- Developed large-scale, portable, thread-safe and ultra-high performance foundation and application infrastructure libraries.
+- Trained and mentored junior programmers in programming methodologies and best practices.
+- Delivered back-office tools supporting ecommerce initiatives, enabling company to compete more effectively in the marketplace through search-engine optimization.
+- Served as a core group member in defining and prioritizing technology investments for the next two years, ensuring the alignment of process, technology and business objectives.
+- Conceptualized, planned, launched and currently chair the Cybersecurity Committee, a company-wide group focused on improving security of the business’ information infrastructure.
 - Developed the customized FileNET Capture Application in VB.NET and MSSQL Server2000 that enhanced the basic functionality by adding role management system to have a complete control in different phases.
 - Collaborated with senior consultants (developers, designers, UX designers) and project/product managers in a small, agile team building responsive, cross-browser compatible and scalable web apps. Daily stand-up. Peer reviewing PR. Involved in front-end & back-end. Exposed to UX.
 - Developed the front-end of customers’websites and newsletters and of the company's own web portals.
@@ -200,6 +213,9 @@
 - Coordinated recruiting, interviewing, training of interns.
 - Implemented new shadowing and pseudo ambient occlusion rendering with fast performance.
 - Created and renovated websites for dozens of clients from many different industries. Attended client meetings to discuss their business goals and milestones. Client websites range from CMS-built to bespoke websites from the ground up. Development of a CRM application for a long-term client using PHP and AJAX.
+- Led solutions engineering that involved process automation, macro conversion and functionality enhancement. Replaced time-consuming, error-prone manual processes with elegant, automated solutions.
+- Developed and implemented cross-platform, Java-based POS system. Completed project under budget and three weeks ahead of deadline.
+- Coded new solutions that increased availability and scalability by 45% and 75%, respectively.
 - Redesigned customer-facing websites and internal tools. Designed and implemented new products and features using Angular JS,Twitter Bootstrap and an internal API based on Django REST Framework.
 - Responsible for the design and production of marketing materials including landing pages, banner ads, billboards, email newsletters and presentations. Screened and interviewed engineering candidates.
 - Redesigned and implemented new features for the web-based version of a major Electronic Health Record platform. Implemented design patterns using Twitter Bootstrap and jQuery.
