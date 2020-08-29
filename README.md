@@ -198,6 +198,8 @@ _ Proven leader and project manager; drive system architecture decisions and lea
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
+- Established and launched XXX with animation styles to guide users on how to operate in Creative Tool section for XXX monthly active users.
+- Participated in the pre-launch stage and the construction of the back end for project XXX.
 - Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
 - Led, architected and participated in the design, testing and deployment of client/server, multitier applications, ActiveX and related components.
 - Developed new procedures for requirements gathering, needs analysis, testing, scripting and documentation to strengthen quality and functionality of business-critical applications.
