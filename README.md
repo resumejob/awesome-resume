@@ -1,27 +1,10 @@
-本文章由**海外兔 (https://osjobs.net)** 撰写，我们团队有丰富的面试官经验，能帮助你分析简历，模拟面试，重新规划你的职业生涯。详细信息请浏览**求职课程 (https://osjobs.net/co/)**
+本文章由**海外兔 (https://osjobs.net)** 撰写，我们团队有丰富的面试官经验，提供入职套餐，入职不成功不收费。详细信息请浏览**求职课程 (https://osjobs.net/co/)**
 
 ### 求职系列文章：
 
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/77857433" >系统设计面试 101</a>
-
-### 简历模板列表：
-
-为什么选择我们的模版？
-
-- 四个精心设计，方便版本控制的 HTML 模版，提升 60% 通过筛选概率
-- 隐私保护，能够轻松在本地导出 PDF 版本
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg" width="1000">
-</p>
-
-- 本项目的 `free` 文件夹中带有一个免费的简历模版。下载后可以直接使用。
-- 收费模版请通过[这里](https://osjobs.net/co/#pricing)付费和下载。
-
-<hr>
+- <a target="_blank" rel="noopener noreferrer" href="https://osjobs.net/topk/" >国内大厂高频面试题</a>
 
 ### 项目目录
 
