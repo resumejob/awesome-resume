@@ -4,6 +4,7 @@
 
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://osjobs.net/topk/" >国内大厂高频面试题</a>
 
 ### 项目目录
