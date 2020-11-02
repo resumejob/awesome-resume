@@ -1,3 +1,10 @@
+项目包括程序员简历例句，程序员简历范例，Java 简历模版，Python 简历模版，C++ 简历模版
+
+## 其他内容
+
+- [国内大厂真实高频面试题](https://github.com/resumejob/interview-questions)
+- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+
 ### 项目目录
 
 - 个人简介
