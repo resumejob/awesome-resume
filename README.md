@@ -1,11 +1,17 @@
-项目包括程序员简历例句，程序员简历范例，Java 简历模版，Python 简历模版，C++ 简历模版
+## 介绍
 
-## 其他内容
+本项目由**海外兔** (https://osjobs.net) 维护，海外兔团队由一线互联网面试官组成，提供海内外公司一对一入职套餐以及算法课程。
 
-- [国内大厂真实高频面试题](https://github.com/resumejob/interview-questions)
+**入职不成功不收费。详细信息请浏览[求职课程](https://osjobs.net/co/)**
+
+## 相关项目
+
+- [大厂高频面经面试题](https://osjobs.net/topk/)
 - [免费项目实战课程](https://github.com/resumejob/free-project-course)
 
-### 项目目录
+
+## 项目目录
+项目包括程序员简历例句，程序员简历范例，Java 简历模版，Python 简历模版，C++ 简历模版
 
 - 个人简介
 	- [简介](#通用简介)
