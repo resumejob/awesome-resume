@@ -120,6 +120,8 @@
 - 深熟练掌握全栈开发，对后端到前端的技术原理有全面的认识，熟悉网站开发流程，能够独立搭建完整的网站。
 - 深入理解数据结构与算法，并能够实现**哈希表、链表、队列、栈、二叉树**等数据结构。
 - 扎实的 Python 基础，熟悉文件 I/O、多线程、装饰器、基础数据结构及模块化。
+- 使用 GitLab 等工具对项目进行持续集成，保证项目能够快速上线以及及时回滚
+- 设计 MySQL 基于 XXX 搭建主从架构，使用 Mycat 实现分库分表、读写分离以及高可用
 - 熟练基于 **Scrapy** 框架进行分布式爬虫，利用 **Xpath，BeautifulSoup，Re** 进行数据清洗，并解决验证码，登录，Javascript混淆，等各种反爬措施。
 - 熟悉 Socket 网络编程、了解**多线程、多进程、异步I/O、I/O多路复用如 select、poll、epoll**的原理及使用。
 - 使用 Flask，SQLAlchemy, Mysql，Redis 协助完成数据管理模块，并通过测试工具优化 15% 后端 API 接口性能。
@@ -173,6 +175,7 @@
 - Develop, maintain and support application programs for administrative, Web and mobile systems using Java and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues; and manage a team of three programmers.
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
 - Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
+- Implemented a XXX module for Project Structure analyzes tool that allows it to produce structure reports.
 - Lead programmer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability.
 - Knowledge of commercial and open source software/database engineering tools, design techniques, CASE tools and security standards.
 _ Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
