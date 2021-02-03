@@ -125,7 +125,7 @@
 - 扎实的 Python 基础，熟悉文件 I/O、多线程、装饰器、基础数据结构及模块化。
 - 使用 GitLab 等工具对项目进行持续集成，保证项目能够快速上线以及及时回滚
 - 设计 MySQL 基于 XXX 搭建主从架构，使用 Mycat 实现分库分表、读写分离以及高可用
-- 熟练基于 **Scrapy** 框架进行分布式爬虫，利用 **Xpath，BeautifulSoup，Re** 进行数据清洗，并解决验证码，登录，Javascript混淆，等各种反爬措施。
+- 熟练基于 **Scrapy** 框架进行分布式爬虫，利用 **Xpath，BeautifulSoup，Re** 库进行数据清洗，并解决验证码，登录，Javascript混淆，等各种反爬措施。
 - 熟悉 Socket 网络编程、了解**多线程、多进程、异步I/O、I/O多路复用如 select、poll、epoll**的原理及使用。
 - 使用 Flask，SQLAlchemy, Mysql，Redis 协助完成数据管理模块，并通过测试工具优化 15% 后端 API 接口性能。
 - 协助运维监控 6台 后台服务器以及 3台Redis 服务器。保证 uptime 达到 99%。
@@ -133,7 +133,7 @@
 - 熟悉 **Django web** 开发框架，熟悉 MVC 模型，熟悉中间件、Admin 站点管理、图片上传、分页，邮件传输。
 - 掌握 MySQL 数据库的基本原理与常用语法，了解 **MongoDB、Redis** 等 NoSQL 数据库；
 - 熟悉 Mysql 工作原理及程序上如何高性能配置，了解主流开源 NoSQL 系统（Memcached、Redis、MongoDB等）的使用和原理，有分布式系统使用经验；
-- 使用 **Scrapy** 框架对采集目标进行数据收集，跟踪网页链接构建分类信息字段分析目标网址，使用** Xpath, re **提取信息。通过抓包工具获取 Ajax 链接并解析 json 数据。
+- 使用 **Scrapy** 框架对采集目标进行数据收集，跟踪网页链接构建分类信息字段分析目标网址，使用** Xpath, Re **库提取信息。通过抓包工具获取 Ajax 链接并解析 json 数据。
 
 
 ## 项目经验
