@@ -1,0 +1,130 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, PingFangSC-Regular, Tahoma, "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", sans-serif;
+}
+
+#resume-framework {
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+.experience li {
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+#avatar {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.title {
+   border-bottom:1px solid gray;
+   margin-bottom: 3px;
+}
+
+.title p {
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+
+.skills-ul {
+    margin-bottom: 2px;
+    padding-inline-start: 0px;
+}
+
+.skills-ul li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.company-name, .project-name, .company-location {
+    display: inline;
+}
+
+.company-name {
+    font-size: 16px;   
+}
+
+.project-name {
+    margin-left: 10px;
+}
+
+.job-decs-first, .job-decs-second, .project, .contact-first {
+    position: relative;
+}
+
+.company-location {
+    position: absolute;
+    right: 10px;
+}
+
+.job-title, .time {
+    display: inline;
+    font-size: 13px;
+}
+
+.job-title {
+    font-style:italic;
+}
+
+#email{
+    position: absolute;
+    top: 16px;
+    right: 10px;
+}
+
+#phone{
+    position: absolute;
+    top: 16px;
+    right: 174px;
+}
+
+.time {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+}
+
+.des-ul {
+    margin-top: 6px;
+}
+
+.contact-first {
+    display: block;
+}
+.contact-first p, .contact-second p{
+    display: inline;
+}
+
+
+#name {
+    font-size: 32px;
+    display: inline;
+}
+
+.contact-inside {
+    float: right;
+    margin-right: 10px;
+}
+
+/*教育背景*/
+.edu-first p, .edu-second p, .other-div p{
+    display: inline;
+}
+
+.major {
+    font-size: 13px;
+    font-style:italic;
+}
+
+.school {
+    font-size: 16px;
+}
+
+.school-location {
+    float: right;
+    margin-right: 10px;
+}

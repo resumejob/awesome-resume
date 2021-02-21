@@ -11,7 +11,9 @@
 
 
 ## 项目目录
-项目包括程序员简历例句，程序员简历范例，Java 简历模版，Python 简历模版，C++ 简历模版
+本项目包括程序员简历常用例句，四个不同的简历模版。为方便大家使用以及版本控制，使用了 HTML 来进行样式控制，示例如下图：
+
+![resume](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
 
 - 简介
 	- [通用](#通用简介)

@@ -1,0 +1,89 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, PingFangSC-Regular, Tahoma, "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", sans-serif;
+}
+
+#avatar {
+    width: 300px;
+    border-radius: 8px;
+}
+#left-div {
+    display: inline-block;
+    width: 33%;
+    padding: 15px;
+    border-right: 1px solid #eaeaea;
+}
+
+#right-div {
+    width: 66%;
+    padding: 15px;
+    float: right;
+}
+
+.banner-div {
+    background-color: #FFC107 !important;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.banner-span {
+    margin-left: 6px;
+}
+
+#resume-framework {
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+#avatar {
+    max-width: 100%;
+}
+
+.progress-item {
+    position : relative;
+}
+
+.progress-item .progress-title {
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.progress-item .progress {
+    height: 4px;
+    box-shadow: none;
+    border-radius: 5px;
+}
+
+.progress-item .progress-bar {
+    background-color: #FFC107 !important;
+    box-shadow: none;
+    text-align: right;
+}
+
+.progress-item .progress-percent {
+    font-size: 10px;
+    background-color: #313131;
+    position: absolute;
+    top: 5px;
+    padding: 0 8px;
+    border-radius: 3px;
+}
+
+.progress-item .progress-percent::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    border-top: 6px solid #313131;
+    border-right: 8px solid transparent;
+}
+
+#left-div img {
+    display: block;
+    margin: 0 auto;
+}
+
+#base-info-span {
+    display: block;
+}

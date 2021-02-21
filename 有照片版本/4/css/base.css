@@ -1,0 +1,115 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, PingFangSC-Regular, Tahoma, "Microsoft Yahei", sans-serif;
+}
+
+#avatar {
+    width: 220px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+@media print {
+    #avatar {
+        width: 500px;
+    }
+}
+
+#base-info, #education {
+    margin-bottom: 30px;
+}
+
+#left-info-div {
+}
+
+#right-info-div {
+}
+
+#resume-framework {
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+#info-span {
+    display: inline-block;
+    margin: 10px;
+}
+
+#info-p {
+    padding-left: 25px;
+}
+
+#base-info-div {
+    width: 92%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+#name{
+    text-align: center;
+}
+
+.progress-item {
+    position : relative;
+}
+
+.progress-item .progress-title {
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.progress-item .progress {
+    height: 6px;
+    box-shadow: none;
+    border-radius: 5px;
+}
+
+.progress-item .progress-bar {
+    background-color: #414141 !important;
+    box-shadow: none;
+    text-align: right;
+}
+
+.progress-item .progress-percent {
+    font-size: 10px;
+    background-color: #313131;
+    position: absolute;
+    top: 5px;
+    padding: 0 8px;
+    border-radius: 3px;
+}
+
+.progress-item .progress-percent::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    border-top: 6px solid #313131;
+    border-right: 8px solid transparent;
+}
+
+#left-div {
+    display: inline-block;
+    width: 30%;
+    padding: 25px;
+}
+
+#right-div {
+    width: 68%;
+    padding: 25px;
+    float: right;
+}
+
+.banner-div {
+    padding-bottom: 6px;
+    margin-bottom: 18px;
+    border-bottom: 3px solid #414141;
+}
+
+.skills-wrapper {
+    margin-top: 30px;
+}

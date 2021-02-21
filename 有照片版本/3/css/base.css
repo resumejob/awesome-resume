@@ -1,0 +1,110 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, PingFangSC-Regular, Tahoma, "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", sans-serif;
+}
+
+#avatar {
+    width: 200px;
+    border-radius: 8px;
+    margin: 30px;
+}
+
+#header-div {
+    background-color: #04334b !important;
+    display: inline-block;
+}
+
+#base-info-span {
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+#base-info-div p, #base-info-div h1, #base-info-div h5, #base-info-div b{
+    color: white !important;
+}
+
+.fab:before, .fas:before {
+    color:white !important;
+}
+
+#base-info-div {
+    padding: 10px;
+}
+
+.company-div {
+    margin-bottom: 20px;
+}
+
+#left-div {
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    padding-top: 15px;
+    border-right: 1px solid #eaeaea;
+}
+
+#right-div {
+    width: 66%;
+    padding: 15px;
+    float: right;
+}
+
+.banner-div {
+    background-color: #04334b !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+.banner-span {
+    color: white !important;
+    margin-left: 6px;
+}
+
+#resume-framework {
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+#avatar {
+    max-width: 100%;
+}
+
+.progress-item {
+    position : relative;
+}
+
+.progress-item .progress-title {
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.progress-item .progress {
+    height: 4px;
+    box-shadow: none;
+    border-radius: 5px;
+}
+
+.progress-item .progress-bar {
+    background-color: #0099ff !important;
+    box-shadow: none;
+    text-align: right;
+}
+
+.progress-item .progress-percent {
+    font-size: 10px;
+    background-color: #313131;
+    position: absolute;
+    top: 5px;
+    padding: 0 8px;
+    border-radius: 3px;
+}
+
+.progress-item .progress-percent::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    border-top: 6px solid #313131;
+    border-right: 8px solid transparent;
+}
