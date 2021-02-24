@@ -13,7 +13,15 @@
 ## 项目目录
 本项目包括程序员简历常用例句，四个不同的简历模版。为方便大家使用以及版本控制，使用了 HTML 来进行样式控制，示例如下图：
 
-![resume](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg)
+<div>
+  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/1.png" width="40%">
+
+  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/2.png" width="40%">
+
+  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/3.png" width="40%">
+
+  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/4.png" width="40%">
+</div>
 
 - 简介
 	- [通用](#通用简介)
