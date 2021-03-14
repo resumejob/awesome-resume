@@ -16,46 +16,32 @@
   <sub>✨ 一对一入职套餐，<b>无需定金，入职不成功不收费</b>，详细信息请浏览<a href="https://osjobs.net/co/">求职课程</a> ✨<sub>
 </p>
 
-## 相关项目
+## 其他项目
 
 - [大厂高频面经面试题](https://osjobs.net/topk/)
 - [免费项目实战课程](https://github.com/resumejob/free-project-course)
 
 
-## 项目目录
-本项目包括程序员简历常用例句，四个不同的简历模版。为方便大家使用以及版本控制，使用了 HTML 来进行样式控制，示例如下图：
+## 目录
 
-<div>
-  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/1.png" width="40%">
+- 中文
+    - [简介](#简介)
+    - [工作经历](#工作经历)
+    - [项目经验](#项目经验)
+- 英文
+	- [Summary](#summary)
+	- [Experience](#experience)
+	- [Projects](#projects)
 
-  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/2.png" width="40%">
-
-  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/3.png" width="40%">
-
-  <img style="display: inline-block" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/4.png" width="40%">
-</div>
-
-- 简介
-	- [通用](#通用简介)
-	- [前端](#前端简介)
-	- [移动端](#移动端简介)
-	- [后端](#后端简介)
-- 项目经验
-	- [通用](#通用经验)
-	- [前端](#前端经验)
-	- [后端](#后端经验)
-- 英文版本
-	- [简介](#summary)
-	- [项目经验](#project)
  
-## 个人简介
+#### 简介：
 
-### 通用简介：
+##### 通用
 
 - 有良好的代码风格，通过添加注释提高代码可读性，注重代码质量，研读过 XXX，XXX等多个开源项目源码从而学习增强代码的健壮性与扩展性。
 - 具备良好的代码编程习惯及文档编写能力，参与多个高性能网站架构设计与系统核心部分代码编写、重构，能进行技术攻关，突破关键技术瓶颈。
 - 负责根据公司业务及目标引进人才、培养新人、规划团队人员、并建立完善的绩效考核制度有效留住人才，提高工作效率。
-- 带领 10 人团队完成分布式系统的难点分析与架构设计工作，承担核心功能 代码编写，开发与维护系统核心模块。使用 Selenium 等工具协助持续集成 与自动化部署，保证代码的可靠和安全。
+- 带领 10 人团队完成分布式系统的难点分析与架构设计工作，承担 XXX 等核心功能代码编写，开发与维护系统核心模块。使用 Selenium 等工具协助持续集成 与自动化部署，保证代码的可靠和安全。
 - X 年 Java 开发经验，作为核心成员参与了多款千万级DAU，过亿下载量的 XXX 开发迭代，对 coding 有热情，在项目迭代，性能优化，疑难问题排查等方面都有可靠的攻坚能力，在公司内部组织过数次技术分享，主题包括 XXX, XXX 等。
 - 参与 XXX 项目的全流程，包括需求评审、设计评审，制定测试计划，设计和执行测试用例，及测试回归，进行缺陷跟踪和软件质量分析等。
 - 善于发现以及解决问题，持续改进 XXX 系统的架构和核心技术，保证系统的稳定性、高性能、高可用性和可扩展性；
@@ -335,4 +321,4 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 > Providing exceptional contributions to customer service. In my previous role, I improved first call resolution rates by 8 percent last quarter, while keeping talk time flat.
 > 
 > Sincerely,
-> 
+>
