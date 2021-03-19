@@ -24,11 +24,11 @@
 
 ## 目录
 
-- 中文
+- [中文](#中文)
     - [简介](#简介)
     - [工作经历](#工作经历)
     - [项目经验](#项目经验)
-- 英文
+- [英文](#English)
 	- [Summary](#summary)
 	- [Experience](#experience)
 	- [Projects](#projects)
@@ -182,7 +182,7 @@
 - 在管理处担任实习生，从设定 Linux 环境，编译 MySQL，设定 Apache 与 Nginx 等服务器，到最后 PHP 的开发环境及参数设定，学习架设 LAMP，XAMMP 等开发环境。
 - 
 
-## English Version
+## English
 
 ### Summary
 - I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
@@ -197,11 +197,12 @@ _ Proven leader and project manager; drive system architecture decisions and lea
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
-### Project
+### Experience
 - Revamped the entire back-end/front-end structure of Tradeshows section that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
+- Optimized and analyzed modules written in Java to implement better software engineering practices
 - Established and launched XXX with animation styles to guide users on how to operate in Creative Tool section for XXX monthly active users.
 - Participated in the pre-launch stage and the construction of the back end for project XXX.
 - Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
@@ -242,9 +243,8 @@ _ Proven leader and project manager; drive system architecture decisions and lea
 - Implemented Solr cluster (master-slave architecture) for near real-time search and reduced search time by up to 20%. 
 - Integrated Coherence/GemFire caching for customers including Oracle, VMware and reduced request latency by 25%.
 - Built a high-performance data integration tool for Sanoma, a leading media group; migrated its contents in minutes.
-- Built a web-based application for Belgium Post Office to enable central management via the portal. 
-- Lectured Java Bootcamp and advanced Java courses to 100 professionals at TTI University; was a speaker at Java User Group and LatCraft conferences.
-- Built a marketing permissions tool for TeliaSonera, a leading telephone provider. Integrated into the Liferay portal.
+- Built a web-based application for XXX to enable central management via the portal. 
+- Lectured Java Bootcamp and advanced Java courses to 100 professionals at XXX.
 
 ### Cover Letter
 
