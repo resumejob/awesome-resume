@@ -50,6 +50,7 @@
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
 - Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
 - Implemented a XXX module for Project Structure analyzes tool that allows it to produce structure reports.
+- I'm familiar with Java, C++ as well as Golang. I had solid foundations in data structure and algorithms with decent knowledge in web application development.
 - Lead programmer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability.
 - Knowledge of commercial and open source software/database engineering tools, design techniques, CASE tools and security standards.
 - Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
@@ -69,6 +70,10 @@
 - Optimized the distributed file system with a redesigned XXX to ensure cache consistency.
 - Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
 - Led, architected and participated in the design, testing and deployment of client/server, multitier applications, XXX and related components.
+- Built and maintained XXX by XXX and developed a XXX based on XXX
+- Took advantage of Google Protobuf to transfer and validate XXX on local and cloud.
+- Used Nginx for load balancing, processing a large number of requests up to 30,000 simultaneously.
+- Cached goods information with Redis, improving the speed of inquiry by 70% from the original structure.
 - Developed new procedures for requirements gathering, needs analysis, testing, scripting and documentation to strengthen quality and functionality of business-critical applications.
 - Developed large-scale, portable, thread-safe and ultra-high performance foundation and application infrastructure libraries.
 - Trained and mentored junior programmers in programming methodologies and best practices.
