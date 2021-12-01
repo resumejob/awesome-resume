@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://osjobs.net/#pricing">
+  <a href="https://osjobs.net/co/#pricing">
     📜 免费获取 6 个精心设计的 HTML 及 Latex 简历模版
   </a>
   
