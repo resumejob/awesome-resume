@@ -1,14 +1,17 @@
+<h1 align="center">
+ Awesome Resume
+</h1>
 <h3 align="center">
-  <a href="https://osjobs.net/co/#pricing">
-    📜 免费获取 6 个精心设计的 HTML 及 Latex 简历模版
-  </a>
-  
+ 专业地道的简历例句，包括个人简介，项目介绍以及 Cover Letter
 </h3>
-<p align="center">
-  <b>✨通过多个热门招聘网站的显示测试，提升 200% 通过筛选概率 ✨</b>
-</p>
 
-<br>
+
+<h4 align="center">
+  <a href="https://osjobs.net/co/#pricing">
+    📜 免费获取 6 个精心设计的简历模版，提升 200% 通过筛选概率
+  </a>
+</h4>
+
 
 | 其他热门项目     | 链接 |
 | ----------- | ----------- |
