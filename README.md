@@ -15,7 +15,7 @@
 
 | 其他热门项目     | 链接 |
 | ----------- | ----------- |
-| 大厂高频面经      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
+| 高频面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 | 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
 
 ### 目录
