@@ -20,6 +20,7 @@
 
 ### 目录
 
+- [Checklist](#checklist)
 - [English](#English)
 	- [Summary](#summary)
 	- [Experience](#experience)
@@ -31,6 +32,12 @@
 
 
 
+## <a name="checklist">Checklist</a>
+1. 按照时间倒序列出工作经历以及项目经验
+2. 检查电话与邮箱地址是否正确，领英与简历同步更新
+3. 使用前后一致的字体，行距与文字间距
+4. 使用 Grammarly 或其他语法检查工具检查拼写
+5. 使用 PDF 格式并且保持一页篇幅，简历命名方式为 “姓名_岗位.pdf”
 
 ## <a name="English">English</a>
 
