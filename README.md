@@ -7,8 +7,8 @@
 
 
 <h4 align="center">
-  <a href="https://osjobs.net/co/#pricing">
-    📜 免费获取 6 个精心设计的简历模版，提升 200% 通过筛选概率
+  <a href="https://osjobs.net/co/">
+    海外兔小班教学帮助你高效准备面试，学员大厂率超过 60%，入职不成功不收费。
   </a>
 </h4>
 
@@ -25,6 +25,7 @@
 	- [Summary](#summary)
 	- [Experience](#experience)
 	- [Projects](#projects)
+    - [Referral](#referral)
 	- [Cover Letter](#cover-letter)
 - [中文](#中文)
     - [简介](#简介)
@@ -60,10 +61,14 @@
 #### Backend
 
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
+- Designed and implemented a fullstack solution to display XYZ in data centers worldwide.
+- Used A to roll out new features to production gradually and safely, it's applied to the Web, Android, and IOS.
 - Revamped the entire back-end/front-end structure of XXX that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Optimized and analyzed modules written in Java to implement better software engineering practices
+- Collaborated with multiple teams such as the product managers and developers to clarify requirements, draft design proposals and implement the best option.
 - Established and launched XXX with animation styles to guide users on how to operate in Creative Tool section for XXX monthly active users.
+- Implement next generation cloud platform with X, Y, Z and docker in Multi Cloud to support business teams to scale their applications fast and efficiently.
 - Participated in the pre-launch stage and the construction of the back end for project XXX.
 - Optimized the distributed file system with a redesigned XXX to ensure cache consistency.
 - Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
@@ -118,6 +123,9 @@
 - Built a high-performance data integration tool for XXX, a leading media group; migrated its contents in minutes.
 - Built a web-based application for XXX to enable central management via the portal. 
 
+#### Referral
+- He/She is a graduate student at the University of B. In his/her undergraduate years, he Led the development of C, which has been highly acknowledged by classmates and teachers. He/She has experience in web development with Javascript, Python, C++, and Java, and database management with SQL and NoSQL. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural and fast-paced conditions.
+- He/She is a graduate student at B. He/She is interested in solving complex real-world problems with software and built several projects using Java, C++ and Javascript. Besides, he is also familiar with MySQL, PostgreSQL. He had experience in working at C, D as a software engineer, which helps him/her gain hands-on experience in web application development. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural.
 
 #### Cover Letter
 
