@@ -72,6 +72,7 @@
 - Participated in the pre-launch stage and the construction of the back end for project XXX.
 - Optimized the distributed file system with a redesigned XXX to ensure cache consistency.
 - Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
+- Collaborated with group of 7 to build a X platform using A and b following agile development principles for clients to do X.
 - Led, architected and participated in the design, testing and deployment of client/server, multitier applications, XXX and related components.
 - Built and maintained XXX by XXX and developed a XXX based on XXX
 - Took advantage of Google Protobuf to transfer and validate XXX on local and cloud.
