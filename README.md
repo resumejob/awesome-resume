@@ -46,6 +46,10 @@
 - I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
 - I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
 - Develop, maintain and support application programs for administrative, Web and mobile systems using Java and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues; and manage a team of three programmers.
+- Help to augment the technical knowledge of the ABC platform by providing training, mentorship and support on the use of all applications and tools built by the team
+- Collaborate with front-end engineers and PM regarding the design and technical specifications of software solutions for ABC
+- Improve ABC platforms and design new proprietary applications to be used directly by other teams
+- Work together with other teams to help optimize the ABC systems, including crafting solutions to efficiently and effectively synthesize, organize and present data from multiple third-party sources
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
 - Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
 - Implemented a XXX module for Project Structure analyzes tool that allows it to produce structure reports.
