@@ -1,6 +1,6 @@
-# awesome-resume
+# 联系方式
 
-**本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
+**手机：**13221836772    **邮箱：**cccivv@163.com
 
 ## 如何写简历
 请参考文章：
