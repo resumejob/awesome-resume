@@ -1,9 +1,9 @@
 <h1 align="center">
  Awesome Resume
 </h1>
-<h3 align="center">
+<h4 align="center">
  专业地道的简历例句，包括个人简介，项目介绍以及 Cover Letter
-</h3>
+</h4>
 
 
 <h4 align="center">
@@ -22,10 +22,9 @@
 
 - [Checklist](#checklist)
 - [English](#English)
-	- [Summary](#summary)
-	- [Experience](#experience)
-	- [Projects](#projects)
-    - [Referral](#referral)
+	- [General Summary](#general-summary)
+	- [Work Experience](#work-experience)
+   - [Referral](#referral)
 	- [Cover Letter](#cover-letter)
 - [中文](#中文)
     - [简介](#简介)
@@ -42,25 +41,22 @@
 
 ## <a name="English">English</a>
 
-### <a name="Summary">Summary</a>
-- I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
-- I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
+### <a name="Summary">General Summary</a>
+- Experienced frontend engineer with a strong background in React and Vue development. Skilled in building user-friendly, high-performance web applications.
+- Highly skilled frontend engineer with extensive experience using JavaScript to develop interactive, user-friendly web applications. Proficient in using modern frameworks and libraries to optimize performance and deliver top-quality products.
+- Experienced backend engineer with a strong background in Java development. Skilled in building scalable, high-performance systems and services to support a wide range of business needs.
+- Experienced backend engineer with a proven track record of delivering high-quality Python-based solutions. Skilled in building scalable, efficient systems that support the needs of modern businesses.
 - Develop, maintain and support application programs for administrative, Web and mobile systems using Java and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues; and manage a team of three programmers.
-- Help to augment the technical knowledge of the ABC platform by providing training, mentorship and support on the use of all applications and tools built by the team
-- Collaborate with front-end engineers and PM regarding the design and technical specifications of software solutions for ABC
-- Improve ABC platforms and design new proprietary applications to be used directly by other teams
+- Collaborate with front-end engineers and PM regarding the design and technical specifications of software solutions for XYZ
 - Work together with other teams to help optimize the ABC systems, including crafting solutions to efficiently and effectively synthesize, organize and present data from multiple third-party sources
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
-- Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
-- Implemented a XXX module for Project Structure analyzes tool that allows it to produce structure reports.
-- I'm familiar with Java, C++ as well as Golang. I had solid foundations in data structure and algorithms with decent knowledge in web application development.
 - Lead programmer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability.
 - Knowledge of commercial and open source software/database engineering tools, design techniques, CASE tools and security standards.
 - Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
-### <a name="Experience">Experience</a>
+### <a name="Work Experience">Work Experience</a>
 
 #### Backend
 
@@ -131,8 +127,25 @@
 #### Referral
 - He/She is a graduate student at the University of B. In his/her undergraduate years, he Led the development of C, which has been highly acknowledged by classmates and teachers. He/She has experience in web development with Javascript, Python, C++, and Java, and database management with SQL and NoSQL. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural and fast-paced conditions.
 - He/She is a graduate student at B. He/She is interested in solving complex real-world problems with software and built several projects using Java, C++ and Javascript. Besides, he is also familiar with MySQL, PostgreSQL. He had experience in working at C, D as a software engineer, which helps him/her gain hands-on experience in web application development. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural.
+- As a software engineer, He/She has consistently demonstrated their ability to deliver high-quality solutions. He/She are highly skilled in a range of technologies and are always looking for ways to improve their skills and stay current with the latest industry developments. [Name] is a valuable asset to any team and I highly recommend He/She."
+- As a recent graduate of XYZ University, He/She has demonstrated a strong understanding of software engineering principles and practices. He/She have shown a willingness to learn and are eager to apply their skills in a professional setting. He/She is a highly motivated individual with a passion for technology and I am confident that they will be an asset to any team they join."
 
 #### Cover Letter
+
+> Dear Hiring Manager,
+> 
+> I am writing to apply for the software engineer position at your company. I am a highly skilled and experienced software engineer with a strong background in developing and deploying high-quality, scalable, and secure applications.
+> 
+> I have a Bachelor's degree in Computer Science from XYZ University, and have been working in the software engineering field for over 5 years. In my previous role at ABC Company, I was responsible for leading the development of multiple client/server, multitier applications using XXX technologies. I have a strong understanding of agile development principles and have successfully applied them in my work to deliver solutions that meet business needs and exceed customer expectations.
+> 
+> In addition to my technical skills, I am a team player who is able to work well with others to achieve common goals. I am also a proactive learner who is always looking to improve my skills and stay up-to-date with the latest technologies and best practices.
+> 
+> I am excited about the opportunity to join your team and contribute to the development of high-quality software solutions. Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experience can benefit your company.
+> 
+> Sincerely,
+> [Your Name]
+
+<hr>
 
 > Dear XXX
 >
@@ -149,17 +162,21 @@
 
 <hr>
 
-> Dear XXX
->
-> I am writing to introduce myself to you as a student of International School of Technology (ISTech.). I’m responding to your advertisement in the local Employment News for want of a software developer for your development section.
->
-> As you can see in the enclosed resume, I have a very strong academic background in operating systems combined with over five years research experience in search engine optimization. My recent internship at Major Infosystems, New York, allowed me to further develop and strengthen my technical skills. I have good hands on programming languages like C, C++, Java and Assembly. I believe that I could make a significant and valuable contribution in your firm.
->
-> I would appreciate the opportunity to discuss how my education and experience will be helpful to you. I will be contacting you tomorrow morning on phone to talk about the possibility of arranging an interview. Thank you for your time and consideration.
->
+> Dear Hiring Manager,
+> 
+> I am writing to apply for the Software Engineer position at your company. I am confident that my skills and experience make me a strong candidate for this role.
+> 
+> I have a Bachelor's degree in Computer Science and over 5 years of experience in the software industry. I have experience working with a variety of technologies, including Java, Python, and React, and have developed a range of applications, from web services to mobile apps.
+> 
+> I am particularly skilled at architecting and building scalable, reliable, and secure systems, and have a track record of delivering successful projects on time and within budget. I am also experienced in agile development methodologies and have a proven ability to work effectively in cross-functional teams.
+> 
+> In my current role at XYZ company, I have led the development of several high-profile projects, including a mobile app that has been downloaded over 100,000 times. I have also mentored junior engineers and helped to grow the engineering team from 4 to 10 members.
+> 
+> I am excited about the opportunity to join your team and contribute to the development of innovative software solutions. Thank you for considering my application. I look forward to discussing this opportunity further.
+> 
 > Sincerely,
->
-> XXX
+> [Your Name]
+
 
 <hr>
 
@@ -179,7 +196,7 @@
 
 > Dear XXX,
 > 
-> Since 2015, I have served as a software engineer for Action Company, where I have been repeatedly recognized for developing innovative solutions for multimillion-dollar, globally deployed software and systems. I am responsible for full lifecycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.
+> Since 2015, I have served as a software engineer for XYZ Company, where I have been repeatedly recognized for developing innovative solutions for multimillion-dollar, globally deployed software and systems. I am responsible for full lifecycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.
 >
 > Known for excellent client-facing skills, I have participated in proposals and presentations that have landed six-figure contracts. I also excel in merging business and user needs into high-quality, cost-effective design solutions while keeping within budgetary constraints.
 >
