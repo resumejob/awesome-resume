@@ -75,7 +75,6 @@
 - Collaborated with group of 7 to build a X platform using A and b following agile development principles for clients to do X.
 - Led, architected and participated in the design, testing and deployment of client/server, multitier applications, XXX and related components.
 - Built and maintained XXX by XXX and developed a XXX based on XXX
-- Took advantage of Google Protobuf to transfer and validate XXX on local and cloud.
 - Used Nginx for load balancing, processing a large number of requests up to 30,000 simultaneously.
 - Cached goods information with Redis, improving the speed of inquiry by 70% from the original structure.
 - Developed new procedures for requirements gathering, needs analysis, testing, scripting and documentation to strengthen quality and functionality of business-critical applications.
@@ -345,7 +344,7 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 - 负责项目管理，产品研发部门的工作任务分配，工作细化划分，保证项目按时上线。
 - 与产品经理保持沟通，对订单管理模块进行维护与高效重构，一个月修复超过后台管理系统 30个 Bug。
 - 与设计、运营等合作部门沟通协作，推动产品的实现与最终效果的评估，制定产品的测试标准，上线标准，并进行数据跟踪分析。
-- 构建 **ip** 代理池，**cookies** 池，开发用户个人信息爬虫，编写各种反爬虫算法，爬取用户个人信息和微博内容。并负责数据的清洗、解析、爬取的去重以及进行数据挖掘与研究。
+- 构建 **IP** 代理池，**cookies** 池，开发用户个人信息爬虫，编写各种反爬虫算法，爬取用户个人信息和微博内容。并负责数据的清洗、解析、爬取的去重以及进行数据挖掘与研究。
 - 作为软件开发团队的核心成员，为大数据应用设计开发高质量的软件平台。对微服务架构组件有实践经验，理解常见架构的高可用性与可扩展性。
 - 有项目云服务化或者相关开发以及项目调优，部署经验。熟悉大规模、高并发系统架构设计，能独立完成系统的设计及开发。
 
