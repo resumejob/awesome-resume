@@ -314,7 +314,7 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 - 熟练使用 XXX 开发框架，对浏览器渲染，异步编程，跨域等概念有清晰的认知，对常见库的源码实现有了解。
 - 熟悉模块化、前端编译和构建工具，熟练运用主流的移动端 JS 库和开发框架，并深入理解其设计原理，例如：Zepto、React 等。
 - 熟悉 Node.js 开发，熟练使用 npm, webpack, gulp 等工具。熟悉前端性能的优化，熟悉使用 Chrome，Safari 等前端调试工具。
-- 了解 ES6 新特性，对 Javascript 中闭包，函数式编程等概率有清晰的认知。
+- 了解 ES6 新特性，对 Javascript 中闭包，函数式编程等概念有清晰的认知。
 - 熟练掌握 HTML5，CSS3 的基本使用以及常用的响应式布局的最佳实践。
 - 熟悉 Node.js 以及 V8 的性能和稳定性优化，能对系统整体性能进行评估，解决内存瓶颈。
 - 熟练掌握 **Android UI** 开发，包括各种控件、布局方式、动画和自定义控件的使用方法。
