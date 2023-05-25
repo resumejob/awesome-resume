@@ -8,7 +8,7 @@
 
 <h4 align="center">
   <a href="https://osjobs.net/co/">
-    海外兔小班教学帮助你高效准备面试，学员大厂率超过 60%，入职不成功不收费。
+    海外兔小班教学帮助你高效准备面试，学员大厂率超过 50%，入职不成功不收费。
   </a>
 </h4>
 
@@ -17,6 +17,7 @@
 | ----------- | ----------- |
 | 高频面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 | 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
+| 快速撰写简历工具   | <a href="https://osjobs.net/resume-cn/">https://osjobs.net/resume-cn/</a>        |
 
 ### 目录
 
@@ -33,11 +34,13 @@
 
 
 ## <a name="checklist">Checklist</a>
-1. 按照时间倒序列出工作经历以及项目经验
-2. 检查电话与邮箱地址是否正确，领英与简历同步更新
-3. 使用前后一致的字体，行距与文字间距
-4. 使用 Grammarly 或其他语法检查工具检查拼写
-5. 使用 PDF 格式并且保持一页篇幅，简历命名方式为 “姓名_岗位.pdf”
+- [ ] 使用 https://www.promptio.net/Resume 来优化简历描述
+- [ ] 按照时间倒序列出工作经历以及项目经验
+- [ ] 检查电话与邮箱地址是否正确，领英与简历同步更新
+- [ ] 使用前后一致的字体，行距与文字间距
+- [ ] 使用 Grammarly 或其他语法检查工具检查拼写
+- [ ] 使用 PDF 格式并且保持一页篇幅，简历命名方式为 “姓名_岗位.pdf”
+
 
 ## <a name="English">English</a>
 
