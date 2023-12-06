@@ -64,7 +64,7 @@
 
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
 - Designed and implemented a fullstack solution to display XYZ in data centers worldwide.
-- Used A to roll out new features to production gradually and safely, it's applied to the Web, Android, and IOS.
+- Used A to roll out new features to production gradually and safely, it's applied to the Web, Android, and iOS.
 - Revamped the entire back-end/front-end structure of XXX that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Optimized and analyzed modules written in Java to implement better software engineering practices
