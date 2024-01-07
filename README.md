@@ -22,7 +22,7 @@
 
 - [Checklist](#checklist)
 - [English](#English)
-	- [General Summary](#general-summary)
+	- [Summary](#summary)
 	- [Work Experience](#work-experience)
    - [Referral](#referral)
 	- [Cover Letter](#cover-letter)
@@ -43,7 +43,26 @@
 
 ## <a name="English">English</a>
 
-### <a name="Summary">General Summary</a>
+### <a name="Summary">Summary</a>
+
+#### Experienced
+
+- Seasoned Software Engineer with 8 years of experience in the field of artificial intelligence, proficient in Python, TensorFlow, and Keras. Architected and deployed a machine learning platform that improved data processing speed by 40% for a client base of over 100,000. Awarded 'Engineer of the Year' for exceptional leadership in innovation and collaborative project success.
+- Software Engineer with a decade of experience in cloud infrastructure, skilled in AWS, Kubernetes, and Terraform. Played a key role in the migration and management of a cloud solution that now supports over 50 enterprise clients, leading to a 50% reduction in on-premise costs. Recognized with the 'Best Technical Achievement' award for optimizing cloud services and outstanding teamwork.
+- Expert Software Engineer with 6 years of experience in cybersecurity, specializing in network security and encryption technologies. Developed and implemented a security protocol that reduced breach incidents by 60% across 200,000 users. Honored with the 'Security Excellence' award for enhancing company-wide security measures and proactive threat detection.
+- Software Engineer with over 7 years of experience in mobile application development, adept in Swift and Android SDK. Directed the launch of a series of health and wellness apps, amassing over 3 million downloads, and a 4.5+ star rating. Received the 'Innovative Mobile App' accolade for outstanding app design and user experience.
+- Software Engineer with 5 years of experience in SaaS product development, proficient in Ruby on Rails and JavaScript frameworks. Led the development of a project management tool that increased customer productivity by 30%, servicing over 10,000 active users. Commended with the 'SaaS Innovator' award for driving product growth and leading a high-performing development team.
+
+#### New Grad
+
+- Newly graduated Software Engineer with 2+ years of focused experience in Python and C#. Instrumental in the design and implementation of a campus-wide resource management system that is now actively used by over 4,000 students and faculty. Awarded 'Best Senior Project' for outstanding software development skills and project execution.
+- Computer Science graduate with an emphasis on mobile development, accumulating 1+ years of experience in Swift and Kotlin. Successfully developed and launched a nutrition tracking app for a senior project, currently with over 1,000 downloads. Lauded for exceptional problem-solving abilities and received the 'Most Innovative Project' accolade from the department.
+- Recent graduate with a strong command of machine learning algorithms and data science principles, backed by 3 years of academic experience in Python and R. Key contributor to a predictive analytics project that won the 'University Research Excellence' award, designed to process and analyze over 30,000 data sets from academic research surveys.
+- Graduate with a Bachelor's in Software Engineering, bringing 2 years of intensive experience in full-stack development with JavaScript, React, and Node.js. Led the development of a volunteer coordination platform for non-profits as a capstone project, which is now operational and has managed over 500 volunteer events. Recognized with the 'Community Impact' award for contributions to local non-profits through technology.
+- Software Engineer with a fresh perspective from a rigorous Computer Science program, offering 2 years of practical experience in Java and SQL. Successfully developed a library management system used by the university library to track and manage over 20,000 books and resources. Commended with the 'Academic Achievement in Software Development' for maintaining a consistent track record of top-tier project deliverables.
+
+
+### Simple Summary
 - Experienced frontend engineer with a strong background in React and Vue development. Skilled in building user-friendly, high-performance web applications.
 - Highly skilled frontend engineer with extensive experience using JavaScript to develop interactive, user-friendly web applications. Proficient in using modern frameworks and libraries to optimize performance and deliver top-quality products.
 - Experienced backend engineer with a strong background in Java development. Skilled in building scalable, high-performance systems and services to support a wide range of business needs.
