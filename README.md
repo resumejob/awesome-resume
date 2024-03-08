@@ -84,7 +84,7 @@
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
 - Designed and implemented a fullstack solution to display XYZ in data centers worldwide.
 - Used A to roll out new features to production gradually and safely, it's applied to the Web, Android, and iOS.
-- Revamped the entire back-end/front-end structure of XXX that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
+- Revamped the entire back-end/front-end structure of ABC that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Optimized and analyzed modules written in Java to implement better software engineering practices
 - Collaborated with multiple teams such as the product managers and developers to clarify requirements, draft design proposals and implement the best option.
@@ -251,11 +251,11 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 ### 简介
 #### 通用
 
+- 带领 10 人团队完成分布式系统的难点分析与架构设计工作，承担 XXX 等核心功能代码编写，开发与维护系统核心模块。使用 XXX 等工具协助持续集成 与自动化部署，保证代码的可靠和安全。
+- X 年 Java 开发经验，熟悉 JVM，MySQL，Java 多线程，计算机网络等基础原理以及运行机制，熟悉Spring， Spring Cloud 等第三方框架的原理以及使用。
 - 有良好的代码风格，注重代码质量，通过学习 XXX，XXX 等多个开源项目的架构与源码，确保代码具备健壮性与扩展性。
 - 具备良好的代码编程习惯及文档编写能力，参与 XXX，XXX 项目的核心部分代码编写，重构和维护。能进行技术攻关，突破关键技术瓶颈。
 - 负责根据公司业务及目标引进人才、培养新人、规划团队人员、并建立完善的绩效考核制度有效留住人才，提高工作效率。
-- 带领 10 人团队完成分布式系统的难点分析与架构设计工作，承担 XXX 等核心功能代码编写，开发与维护系统核心模块。使用 XXX 等工具协助持续集成 与自动化部署，保证代码的可靠和安全。
-- X 年 Java 开发经验，熟悉 JVM，MySQL，Java 多线程，计算机网络等基础原理以及运行机制，熟悉Spring， Spring Cloud 等第三方框架的原理以及使用。
 - X 年 Java 开发经验，作为核心成员参与了多款千万级 DAU，过亿下载量的 XXX 开发迭代，对 coding 有热情，在项目迭代，性能优化，疑难问题排查等方面都有可靠的攻坚能力，在公司内部组织过数次技术分享，主题包括 XXX, XXX 等。
 - 参与 XXX 项目的全流程，包括需求评审、设计评审，制定测试计划，设计和执行测试用例，及测试回归，进行缺陷跟踪和软件质量分析等。
 - 善于发现以及解决问题，持续改进 XXX 系统的架构和核心技术，保证系统的稳定性、高性能、高可用性和可扩展性；
