@@ -17,6 +17,7 @@
 | ----------- | ----------- |
 | 高频面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 | 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
+| AI 定制简历工具   | <a href="https://ai-coach-ev.streamlit.app/">https://ai-coach-ev.streamlit.app/</a>        |
 
 ### 目录
 
