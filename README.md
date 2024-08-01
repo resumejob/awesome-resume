@@ -145,6 +145,16 @@
 - Built a high-performance data integration tool for XXX, a leading media group; migrated its contents in minutes.
 - Built a web-based application for XXX to enable central management via the portal. 
 
+#### Projects
+
+[Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://matematika.org/clouds/google/qwiklabs/data-science-on-google-cloud-platform-machine-learning/creating-custom-interactive-dashboards-with-bokeh-and-bigquery/) 
+
+(Bokeh, Google BigQuery, Cloud Identity-Aware Proxy, HTTPS Load Balancer)
+
+1. Developed a custom interactive dashboard with Bokeh for visualizing and interacting with large datasets from Google BigQuery, enhancing data-driven decision-making processes.
+2. Collaborated in a cloud-centric environment, utilizing a modern tech stack that included D3.js, Chart.js, and Bokeh for front-end development, and Google Cloud services for backend infrastructure.
+3. Transformed complex datasets into insightful visualizations, providing stakeholders with the ability to explore trends in air quality, precipitation, and temperature data across the U.S. states.
+
 #### Referral
 - He/She is a graduate student at the University of B. In his/her undergraduate years, he Led the development of C, which has been highly acknowledged by classmates and teachers. He/She has experience in web development with Javascript, Python, C++, and Java, and database management with SQL and NoSQL. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural and fast-paced conditions.
 - He/She is a graduate student at B. He/She is interested in solving complex real-world problems with software and built several projects using Java, C++ and Javascript. Besides, he is also familiar with MySQL, PostgreSQL. He had experience in working at C, D as a software engineer, which helps him/her gain hands-on experience in web application development. He/She is a motivated, teamwork-oriented and adaptive individual who loves working under multi-cultural.
