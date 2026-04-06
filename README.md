@@ -416,4 +416,5 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 - 使用**多线程**定时器实现图片轮播器效果，使用 CoreData 对首页数据进行数据储存以及实现搜索界面的模糊搜索功能。
 - 封装 FMDatabaseQueue 类防止多线程访问数据库死锁，修改后比起系统原生框架拥有较高的效率和更为方便的调用方式。
 - 使用 **JavaScript** 与原生 **Objective-C** 网页交互,实现点击网页按钮跳转功能。
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for resume workflow orchestration, automated career management, and multi-agent coordination. MIT licensed.
 - 使用FTP服务器实现CDN分级推送，实现用户上传文件预加热流程，提高50%缓存命中率。
