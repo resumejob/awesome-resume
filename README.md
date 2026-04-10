@@ -33,6 +33,7 @@
 
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=resumejob_awesome-resume) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## <a name="checklist">Checklist</a>
 - [ ] 按照时间倒序列出工作经历以及项目经验
 - [ ] 检查电话与邮箱地址是否正确，领英与简历同步更新
