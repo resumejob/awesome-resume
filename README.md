@@ -395,6 +395,7 @@ A self-starter and eager to learn new things. I continuously seek to build my sk
 - 通过慢查询定位 MySQL 数据库查询瓶颈，通过 SQL 优化以及修改索引将查询时间从 1200ms 降低到 40ms
 
 #### 前端与移动端经验
+- [CV Forge](https://github.com/DeusAcc/cv-forge-ai-resume-builder) - Paste raw notes, get a typeset ATS-friendly PDF resume. Free tier, paid API.
 - 对 **ListView，ConvertView** 进行优化，并通过 **ViewHolder** 缓存 Item 条目，减少重复代码的冗余，减少 **30%** 页面加载时间。
 - 使用多个类实现不同功能，如 Loading 类负责加载数据和布局文件，Adapter 类负责 ListView 控件与展示数据。实现项目模块化开发，降低组件耦合度。
 - 使用 **AsyncSocket** 进行完成即时通讯功能，并协助组长完成客户端与嵌入式网的 **Socket** 对接与通信，实现通过 iOS 设备控制插座的开关、定时开关、温度检测及报警等 8个 功能。
