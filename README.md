@@ -21,6 +21,7 @@
 
 ### 目录
 
+- [简历大师 ResumeMaster](https://github.com/markmiller1/resume-master) - 永久免费的在线简历生成器：纯前端、数据只存在浏览器本地不上传；不用注册、导出不收费；内置 ATS 机器筛选检测；16 套模板 + 18 行业范文 + 64 页简历/求职写作指南。在线使用：https://markmiller1.github.io/resume-master/
 - [Checklist](#checklist)
 - [English](#English)
 	- [Summary](#summary)
